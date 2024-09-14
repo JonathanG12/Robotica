@@ -1,0 +1,20 @@
+100
+50
+25
+
+F1-Entrenamiento
+ CI-BasoriaGarcia
+ CI
+
+
+F2-Validacion
+ CI-Clase1
+ CI-Clase2
+
+
+F3-Prueba
+CI-Clase1
+
+
+modelo
+-Entrenar.py
