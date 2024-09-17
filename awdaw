@@ -4,16 +4,23 @@
 
 F1-Entrenamiento
  CI-BasoriaGarcia
- CI
+ CI-AguilarLoredo
+ CI-JuarezRamos
+ CI-RodriguezPerez
 
 
 F2-Validacion
  CI-Clase1
  CI-Clase2
+ CI-Clase3
+ CI-Clase4
 
 
 F3-Prueba
-CI-Clase1
+ CI-Clase1
+ CI-Clase2
+ CI-Clase3
+ CI-Clase4
 
 
 modelo
